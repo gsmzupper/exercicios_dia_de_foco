@@ -24,9 +24,9 @@ public class NumerosPrimos {
                     }
                 }
                 if (ePrimo) {
-                    System.out.println("\tO número " + valor + " é primo!");
                 } else {
-                    System.out.println("\tO número " + valor + " não é primo.");
+                    System.out.println(ePrimo);
+                    System.out.println(ePrimo);
                 }
             }
         }
